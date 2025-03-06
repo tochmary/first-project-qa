@@ -9,7 +9,7 @@
 * языка Java
 * автотестов
 
-[first-project] (https://github.com/tochmary/first-project-qa "Проект")
+[first-project](https://github.com/tochmary/first-project-qa "Проект")
 
 ```sql
 select * from table;
